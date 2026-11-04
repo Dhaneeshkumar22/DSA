@@ -1,3 +1,4 @@
+//find out longest string without reopetition 
 import java.util.HashSet;
 import java.util.Set;
 
